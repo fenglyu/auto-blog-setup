@@ -7,7 +7,7 @@
 
 CUR_DIR=$(pwd)
 ISO_IMAGE_PATH=/media/diskd/software/CentOS-6.2-x86_64-bin-DVD1.iso
-LOG_FILE=
+LOG_FILE=./install.log
 PHP_LIB_PATH=./libs
 LAMP_PATH=/usr/local/lamp
 mysql_tar_gz="mysql-5.5.27.tar.gz"
